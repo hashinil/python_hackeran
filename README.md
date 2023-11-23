@@ -10,4 +10,7 @@ https://www.hackerrank.com/challenges/counting-valleys/problem
 Jumping on the Clouds
 https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem
 
+Repeated String
+https://www.hackerrank.com/challenges/repeated-string/problem
+
 
