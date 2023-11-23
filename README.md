@@ -1,5 +1,5 @@
 # python_hackeran
-Warm-up Challenges
+###Warm-up Challenges
 
 Sales by Match - socks
 https://www.hackerrank.com/challenges/sock-merchant/problem
@@ -14,6 +14,10 @@ Repeated String
 https://www.hackerrank.com/challenges/repeated-string/problem
 
 
-Arrays
+### Arrays
+
 2D Array - DS
 https://www.hackerrank.com/challenges/2d-array/problem
+
+Arrays: Left Rotation
+https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem
