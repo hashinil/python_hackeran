@@ -14,3 +14,6 @@ Repeated String
 https://www.hackerrank.com/challenges/repeated-string/problem
 
 
+Arrays
+2D Array - DS
+https://www.hackerrank.com/challenges/2d-array/problem
