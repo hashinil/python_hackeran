@@ -25,3 +25,9 @@ https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem
 Minimum Swaps
 https://www.hackerrank.com/challenges/minimum-swaps-2/problem
 
+
+
+### 	Dictionaries and Hashmaps	
+Hash Tables: Ransom Note
+https://www.hackerrank.com/challenges/ctci-ransom-note/problem
+
