@@ -31,3 +31,6 @@ https://www.hackerrank.com/challenges/minimum-swaps-2/problem
 Hash Tables: Ransom Note
 https://www.hackerrank.com/challenges/ctci-ransom-note/problem
 
+Two Strings
+https://www.hackerrank.com/challenges/two-strings/problem
+
