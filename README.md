@@ -21,3 +21,7 @@ https://www.hackerrank.com/challenges/2d-array/problem
 
 Arrays: Left Rotation
 https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem
+
+Minimum Swaps
+https://www.hackerrank.com/challenges/minimum-swaps-2/problem
+
